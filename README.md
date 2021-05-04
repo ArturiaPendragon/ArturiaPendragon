@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArturiaPendragon&count_private=true&hide_border=true&show_icons=true&theme=nightowl" />
 </a>
 
-[![Arturia Pendragon Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArturiaPendragon&show_icons=true&theme=nightowl&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Arturia Pendragon Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArturiaPendragon&show_icons=true&theme=nightowl&hide_border=true)](https://wakatime.com/@ArturiaPendragon)
 
 <!--
 **ArturiaPendragon/ArturiaPendragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
