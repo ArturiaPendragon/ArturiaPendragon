@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Ishtar Project.
-- 🔭 I’m currently working on HDTVEnder Project.
+- 🔭 I’m currently working on HDTVEncoder Project.
 - 🌱 I’m currently learning DevOps.
 
 ## Statistics 📊
