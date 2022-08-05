@@ -90,11 +90,12 @@
 - 🧐 I’m currently learning DevOps & Japanese.
 
 ## Statistics 📊
-<a href="https://github.com/ArturiaPendragon">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArturiaPendragon&count_private=true&hide_border=true&show_icons=true&theme=nightowl" />
-</a>
 
-[![Arturia Pendragon Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArturiaPendragon&show_icons=true&theme=nightowl&hide_border=true)](https://wakatime.com/@ArturiaPendragon)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArturiaPendragon&show_icons=true&count_private=true&theme=tokyonight&hide_border=tru)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ArturiaPendragon&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+<!--[![Arturia Pendragon Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArturiaPendragon&show_icons=true&theme=tokyonight&hide_border=true)](https://wakatime.com/@ArturiaPendragon)-->
 
 <!--
 **ArturiaPendragon/ArturiaPendragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
