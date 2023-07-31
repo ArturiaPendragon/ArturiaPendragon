@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A System Administrator / DevOps ⚔️
+  A DevOps Engineer, Cloud & Automation Enthusiast ☁️🤖
 </p>
 
 <p align='center'>
@@ -11,9 +11,7 @@
     <a href="https://github.com/ArturiaPendragon"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt=""></a>
     <a href="https://gitlab.com/ArturiaPendragon"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt=""></a>
     <a href="https://t.me/ArturiaPendradon"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=""></a>
-    <a href=""><img src="https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white" alt=""></a>
     <a href=""><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" alt=""></a>
-    <a href=""><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt=""></a>
   </a>&nbsp;&nbsp;
 
 ----
@@ -33,13 +31,14 @@
 <p>
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 <h3 id=lang>Metrics</h2>
 <p>
     <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" alt="Graphana">
     <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" alt="Prometheus">
 </p>
-<h3 id=lang>Frameworks</h2>
+<h3 id=framework>Frameworks & Tools</h3>
 <p>
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Markdown">
@@ -57,6 +56,13 @@
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Github Actions">
     <img src="https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white" alt="Travis CI">
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="CloudFlare">
+    <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
+    <img src="https://img.shields.io/badge/Packer-623CE4?style=for-the-badge&logo=packer&logoColor=white" alt="Packer">
+    <img src="https://img.shields.io/badge/Nexus-5CBF00?style=for-the-badge&logo=sonatype&logoColor=white" alt="Nexus Repository">
+    <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="Sonarqube">
+    <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher">
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
+    <img src="https://img.shields.io/badge/Vault-00004B?style=for-the-badge&logo=vault&logoColor=white" alt="HashiCorp Vault">
 </p>
 <h3 id=lang>Browsers</h2>
 <p>
@@ -70,13 +76,14 @@
 <p>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="">
-    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="">
+    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
   <p>
   <h3 id=lang>IDE</h2>
 <p>
     <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="">
     <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
   <p>
   <h3 id=lang>Terminal</h2>
 <p>
@@ -84,10 +91,14 @@
     <img src="https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="">
   <p>
+  <h3 id=music>Music</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  <p>
   
 ----
     
-- 🧐 I’m currently learning DevOps & Japanese.
+- 🧐 I’m currently diving deeper into DevOps, studying for my CKA certification at KodeKloud, and learning Japanese.
 
 ## Statistics 📊
 
